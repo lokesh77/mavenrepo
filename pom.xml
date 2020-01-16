@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://52.220.135.233:8081/repository/sample-poc/-rel</url>
+            <url>http://18.141.32.23:8081/repository/sample-poc-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.220.135.233:8081/repository/sample-poc/</url>
+            <url>http://18.141.32.23:8081/repository/sample-poc/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
